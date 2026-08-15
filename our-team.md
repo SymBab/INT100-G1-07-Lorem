@@ -247,7 +247,7 @@ https://github.com/puwanat4
 
 ## Discord Profile
 
-![alt text]({4C3CE536-1F73-4AC7-8C61-4E4192297CAF}.png)
+![alt text](phumprofile.png)
 
 ### ที่มาของรูป
 
