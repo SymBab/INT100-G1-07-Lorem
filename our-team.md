@@ -7,7 +7,7 @@ Reasons :
 
 ### Personal Details
 
-* **Name - Surname:** นายกรกฎ สอนชิต
+* **First name - Surname:** นายกรกฎ สอนชิต
 * **Age:** 19 ปี
 * **Birth Date:** 16 กรกฎาคม 2007
 > Git hub link : https://github.com/Korakod00
@@ -54,7 +54,7 @@ Reasons :
 # 2.Personal Information
 
 ## **👋 Basic Information** ##
-**Nickname & Surname :** นายภูวณัฏฐ์ รุจิราธัญวัฒน์
+**First name & Surname :** นายภูวณัฏฐ์ รุจิราธัญวัฒน์
 
 **age :**
 19
@@ -104,12 +104,11 @@ https://github.com/puwanat4
 
 ## 👤 ข้อมูลทั่วไป
 
-**ชื่อ:** ภูมิ (Phum)  
-**ชื่อ-นามสกุล:** ภูมิพัฒน์  
+**ชื่อจริง & นามสกุล:** ภูมิพัฒน์ ขัดนันตา
 **อายุ:** 18 ปี 5 เดือน  
 **วันเกิด:** 12 มีนาคม 2551  
 **สถานะ:** นักศึกษามหาวิทยาลัย
-**Github Link**:  
+**Github Link**: https://github.com/phumxstarr   
 
 ### ที่มาของชื่อ
 
@@ -172,11 +171,7 @@ https://github.com/puwanat4
 
 ---
 
-# 🎓 Education Journey
-
-## มัธยมปลาย
-
-### สายการเรียน
+# 🎓 สายการเรียน
 
 **วิทยาการคอมพิวเตอร์**
 
