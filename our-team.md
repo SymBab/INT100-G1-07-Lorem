@@ -1,9 +1,13 @@
-TEAM NAME : 
-Reasons :
+
+**INT100 Design Thinking**
+
+**TEAM NAME : Lorem**
+
+> Reasons : มาจาก Lorem Ipsum ที่เป็น format ของสื่อสิ่งพิมพ์ เป็นการจำลอง ที่เอาไว้ใช้เวลาที่เราต้องการเห็นภาพว่า ถ้านำตัวอักษรไปวางบนพื้นที่ดังกล่าวแล้ว การออกแบบจะออกมาเป็นอย่างไร
 
 
-
-# 1.Profile Introduce
+----------------------
+# 1.Interview (Nine)
 
 ### Personal Details
 
@@ -11,6 +15,8 @@ Reasons :
 * **Age:** 19 ปี
 * **Birth Date:** 16 กรกฎาคม 2007
 > Git hub link : https://github.com/Korakod00
+
+![alt text](/image/profile/nine.png)
 ---
 
 ### Hobby & Why?
@@ -47,14 +53,17 @@ Reasons :
 
 #### **Q: ที่มาของโปรไฟล์ Discord & Why?**
 
-> **A:** ![alt text](image.png)
+> **A:** ![alt text](image/discord_profile/image.png)
 > ชอบรูปนี้เพราะให้ความรู้สึกถึงความอบอุ่นครับ
 
----
-# 2.Personal Information
+> **คนสัมภาษณ์ : นายภูวณัฏฐ์ รุจิราธัญวัฒน์ 69130500047**
+----------------------
+# 2.Interview (P)
 
 ## **👋 Basic Information** ##
 **First name & Surname :** นายภูวณัฏฐ์ รุจิราธัญวัฒน์
+
+![P photo](/image/profile/P.png)
 
 **age :**
 19
@@ -96,11 +105,12 @@ https://github.com/puwanat4
 
 3. **ที่มาของโปรไฟล์ discord & why? แนบรูปมาด้วย**
     > ชอบหมูน่ารัก
-    ![alt text](image-1.png)
----
+    ![alt text](image/discord_profile/image-1.png)
 
+> **คนสัมภาษณ์ : นายกรกฎ สอนชิต 69130500042**
 
-# 3.USER INTERVIEW
+----------------------
+# 3.Interview(ภูมิ)
 
 ## 👤 ข้อมูลทั่วไป
 
@@ -108,7 +118,9 @@ https://github.com/puwanat4
 **อายุ:** 18 ปี 5 เดือน  
 **วันเกิด:** 12 มีนาคม 2551  
 **สถานะ:** นักศึกษามหาวิทยาลัย
-**Github Link**: https://github.com/phumxstarr   
+**Github Link**: https://github.com/phumxstarr  
+
+![pum](/image/profile/pum.png)
 
 ### ที่มาของชื่อ
 
@@ -247,7 +259,7 @@ https://github.com/puwanat4
 
 ## Discord Profile
 
-![alt text](phumprofile.png)
+![alt text](image/discord_profile/phumprofile.png)
 
 ### ที่มาของรูป
 
@@ -266,8 +278,10 @@ https://github.com/puwanat4
 
 หมายเหตุ: ใช้ GPT 5.6 Luna ช่วยในการจัดหน้า markdown 
 
----
-# 4. INTERVIEW PROFILE
+> **คนสัมภาษณ์: กาญจนวัตน์ ขนาบแก้ว 69130500002**
+
+----------------------
+# 4. Interview (Tang)
 
 ## 01 — COMMON INFORMATION
 
@@ -276,6 +290,8 @@ https://github.com/puwanat4
 
 ชื่อ “กาญจนวัฒน์” มีความหมายที่น่าสนใจ
 **กาญจน์** หมายถึง *ทอง* ส่วน **วัฒน์** สื่อถึง *ความเจริญและการพัฒนา* ซึ่งเป็นความหมายที่ผมรู้สึกว่าดี เพราะการพัฒนาตัวเองก็เป็นสิ่งที่ผมให้ความสำคัญ
+
+![tang](/image/profile/tang.png)
 
 **Age:** 19 years 1 month
 **Birth Date:** 4 July 2007
@@ -364,7 +380,7 @@ https://github.com/puwanat4
 
 ### 🌅 Profile Picture
 
-![alt text](Tang.png)
+![alt text](image/discord_profile/Tang.png)
 
 
 ผมเลือกใช้รูปวิวเพราะชอบภาพที่ดูสวยและสบายตา และรู้สึกว่าภาพวิวสามารถสะท้อนความชอบด้าน Photography ของผมได้ด้วย
@@ -381,15 +397,18 @@ https://github.com/puwanat4
 ---
 หมายเหตุ: ใช้ ChatGPT ช่วยในส่วนของการเรียบเรียงตัวอักษร และ จัดหน้า Markdown
 
----
+> **คนสัมภาษณ์ : ภูมิพัฒน์ ขัดนันตา  69130500046**
 
-# 5.Interview 
+----------------------
+# 5.Interview (Mick)
 
 ### **Nickname \& Surname**
 
 ชื่อ ธีรโชติ ฝ่ายดี ชื่อเล่น มิก 
 
 GITHUB : https://github.com/Teerachot41001
+
+![mick](/image/profile/mick.png)
 
 ### **age** 
 อายุ 19
@@ -432,14 +451,19 @@ GITHUB : https://github.com/Teerachot41001
 
 ![Mick photo](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUi9Pb9E0cPFnybaMfbqk93cX_7uesoBA72mjr9aW6LETNV78Z)
 
----
+> **คนสัมภาษณ์ :นาย ภพธร กุ่มแก้ว 69130500042**
 
-# 6.Interview 
+
+----------------------
+# 6.Interview (mj)
 
 # Nickname & Surname
 
 ชื่อ: ภพธร กุ่มแก้ว
 ชื่อเล่น: เอ็มเจ
+> Github : https://github.com/Poptornkoomkaew
+
+![Mj p](/image/profile/P01.jpg)
 
 # age 
 
@@ -473,3 +497,7 @@ GITHUB : https://github.com/Teerachot41001
 # Why discord profile
 
 ปรับมาจากมีมแล้วอยากลงรูปคู่กับแฟนและก็ไม่อยากเหมือนคนอื่น
+
+![mj](image/discord_profile/mj.png)
+
+> **คนสัมภาษณ์ :  ธีรโชติ ฝ่ายดี**
