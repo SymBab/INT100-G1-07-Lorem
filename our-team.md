@@ -387,7 +387,7 @@ https://github.com/puwanat4
 
 ### **Nickname \& Surname**
 
-ชื่อ ทรีโชติ ฝ่ายดี ชื่อเล่น มิก 
+ชื่อ ธีรโชติ ฝ่ายดี ชื่อเล่น มิก 
 
 GITHUB : https://github.com/Teerachot41001
 
@@ -396,7 +396,7 @@ GITHUB : https://github.com/Teerachot41001
 
 ### **birth date**
 
-14/07/2550
+14/08/2550
 
 ### **hobby \& why?**
 
