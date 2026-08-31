@@ -5,7 +5,7 @@
 
 <br>
 
-![JourneyMap](Journey_image/journeymap.png)
+![JourneyMap](Journey%20image/journeymap.png)
 
 <br>
 
