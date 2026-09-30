@@ -12,3 +12,9 @@
 # 2.Defind
 
 - [POV Statement](/DT-Project-lorem-report/Defind/pov%20statement.md)
+
+# 3.Ideate
+
+# 4.Prototype
+
+# 5.Test
