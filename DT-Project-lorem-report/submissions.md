@@ -15,6 +15,8 @@
 
 # 3.Ideate
 
+- [Ideate](/DT-Project-lorem-report/ideate/Ideate.md)
+
 # 4.Prototype
 
 # 5.Test
