@@ -1,11 +1,5 @@
 # Prototype Overview
 
-## Mobile App Information Architecture (IA) & User Journeys
-
-จากการสังเคราะห์ Pain Points และ HMW ทีมได้ออกแบบสถาปัตยกรรมข้อมูล และ User Journeys 
-
- สำหรับแอปพลิเคชันระบบจัดการและอุทธรณ์คะแนนความประพฤติ/กฎระเบียบดิจิทัล เพื่อความโปร่งใสและสร้างพื้นที่ชี้แจงอย่างเป็นธรรม
-
 ### Core Navigation Structure 
 - **หน้าหลัก** คะแนนความประพฤติปัจจุบัน, Tier สถานะ, กิจกรรมล่าสุด
 - **ชี้แจง:** ตรวจสอบรายการหักคะแนน, ส่งคำชี้แจงพร้อมหลักฐาน, ติดตามผลการพิจารณา
@@ -14,7 +8,7 @@
 
 ---
 
-### Key User Journeys
+### Key Journeys
 
 #### 🔄 Journey 1: การตรวจสอบสถานะประจำวัน
 ผู้ใช้ตรวจสอบสถานะคะแนนความประพฤติและระดับ Tier ทันทีหลังเปิดแอป เพื่อความอุ่นใจและรับรู้สถานะตนเอง
@@ -32,7 +26,7 @@ flowchart LR
 ---
 
 #### ⚖️ Journey 2: การส่งคำชี้แจงและอุทธรณ์เหตุการณ์
-เมื่อถูกตัดคะแนนจากเหตุสุดวิสัย เช่น วิ่งเปลี่ยนคาบพละ หรือเหตุเข้าใจผิด นักเรียนสามารถส่งคำอธิบายพร้อมหลักฐานเชิงประจักษ์ได้ทันที
+เมื่อถูกตัดคะแนนจากเหตุสุดวิสัย เช่น วิ่งเปลี่ยนคาบพละ หรือเหตุเข้าใจผิด นักเรียนสามารถส่งคำอธิบายพร้อมหลักฐานได้ทันที
 
 ```mermaid
 flowchart TD
@@ -44,7 +38,7 @@ flowchart TD
 ```
 
 - **Restorative Design:** เปลี่ยนระบบการลงโทษทางเดียวเป็นการสื่อสารสองทาง 
-- **Peak Moment:** การยืนยันสถานะ "ส่งคำชี้แจงสำเร็จ" พร้อมข้อความให้กำลังใจและกรอบเวลาตอบกลับของอาจารย์
+- **Peak Moment:** การยืนยันสถานะ "ส่งคำชี้แจงสำเร็จ" 
 
 ---
 
@@ -72,16 +66,15 @@ flowchart LR
     B --> C[📥 Tap ดาวน์โหลดรายงาน<br/>PDF Summary]
 ```
 
-- **Data Visualization:** กราฟวงโดนัท  แสดงสัดส่วนตามหมวดหมู่กฎ และเส้นแนวโน้มคะแนน  สนับสนุนการฟื้นฟูพฤติกรรมระยะยาว
+- **Data Visualization:** กราฟวงโดนัท  แสดงสัดส่วนตามหมวดหมู่กฎ และเส้นแนวโน้มคะแนน  
 
+## Prototype Screenshots
 
-## 🔗 Related Notes in Car Park House
-- [[00 - Car Park House (Dashboard)|Master Dashboard (Control Tower)]]
-- [[Interview Script (School Rules)|Complete Interview Transcript (Raw Script)]]
-- [[computationalThinking|Computational Thinking Rubric & Decomposition]]
-- [[KMUTT_Project|Copilot 365 Assistant for SIT Students]]
-- [[User Persona (Phum)|Phum's Persona in Living Quarters]]
+| หน้าหลัก | ประวัติพฤติกรรม | ชี้แจงพฤติกรรม | ระดับคะแนน | สรุปผลคะแนน |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="../../image/Prototype_img/screenshot_1.png" width="120" alt="หน้าหลัก"> | <img src="../../image/Prototype_img/screenshot_2.png" width="120" alt="ประวัติพฤติกรรม"> | <img src="../../image/Prototype_img/screenshot_3.png" width="120" alt="ชี้แจงพฤติกรรม"> | <img src="../../image/Prototype_img/screenshot_4.png" width="120" alt="ระดับคะแนน"> | <img src="../../image/Prototype_img/screenshot_5.png" width="120" alt="สรุปผลคะแนน"> |
 
+github link: https://github.com/SymBab/Dekdeeni_Prototype.git
 
 📌 **[สรุป I Wish Feedback & ความเห็นทีม]**
 
